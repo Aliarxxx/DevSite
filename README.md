@@ -1,0 +1,1 @@
+Este projeto consiste em um site desenvolvido com o tema do CSA (Centro Sportivo Alagoano). A proposta é simples e funcional, utilizando apenas HTML e CSS para sua criação, sem recursos avançados. O objetivo foi criar uma página que representasse o time de forma visualmente agradável e direta.
